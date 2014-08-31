@@ -2,7 +2,7 @@
 
 ## Details
 
-The materials here build on Section 1-5 the [Kaggle Berlin Introductory Tutorial](https://github.com/savarin/kaggleberlin-introtutorial).
+The materials here build on Section 1-5 the [Kaggle Berlin Introductory Tutorial](https://github.com/savarin/kaggleberlin-introtutorial),
 comprising parameter-tuned implementations of Random Forests and Gradient Boosting, as
 well as the ensemble of both models.
 
